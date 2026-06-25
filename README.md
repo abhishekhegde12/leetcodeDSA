@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
