@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
