@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
