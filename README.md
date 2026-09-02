@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
