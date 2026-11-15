@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekhegde12/leetcodeDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
